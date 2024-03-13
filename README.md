@@ -21,7 +21,7 @@ If you feel our code or models help your research, kindly cite our paper:
 
 
 ## Dataset
-The curated dataset can be found[here](https://drive.google.com/drive/folders/1gCmE61eg-Bbt7ZL0pZOC2_477xPwrDO7?usp=sharing)
+The curated dataset can be found at [here](https://drive.google.com/drive/folders/1gCmE61eg-Bbt7ZL0pZOC2_477xPwrDO7?usp=sharing)
 
 ## Preprocessing
 Preprocessing scripts are in preprocess_utils.py, preprocess_prompt.py, and preprocess_video.py
