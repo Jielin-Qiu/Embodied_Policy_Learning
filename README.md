@@ -16,7 +16,6 @@ If you feel our code or models help your research, kindly cite our paper:
   booktitle={NAACL},
   year={2024}
 }
-}
 ```
 
 
