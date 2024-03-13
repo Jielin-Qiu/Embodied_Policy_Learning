@@ -12,7 +12,7 @@ If you feel our code or models help your research, kindly cite our paper:
 ```
 @@article{Qiu2023EmbodiedEP,
   title={Embodied Executable Policy Learning with Language-based Scene Summarization},
-  author={Jielin Qiu and Mengdi Xu and William Jongwon Han and Seungwhan Moon and Ding Zhao},
+  author={Jielin Qiu* and Mengdi Xu* and William Jongwon Han* and Seungwhan Moon and Ding Zhao},
   booktitle={NAACL},
   year={2024}
 }
