@@ -1,11 +1,13 @@
 # Embodied Executable Policy Learning with Language-based Scene Summarization
 
-[Embodied Executable Policy Learning with Language-based Scene Summarization](https://arxiv.org/abs/2306.05696). In NAACL 2024
+[Embodied Executable Policy Learning with Language-based Scene Summarization](https://arxiv.org/abs/2306.05696). 
+
+In NAACL 2024
 
 
 ## Citation
 
-If you feel our code or models help your research, kindly cite our papers:
+If you feel our code or models help your research, kindly cite our paper:
 
 ```
 @@article{Qiu2023EmbodiedEP,
@@ -44,3 +46,8 @@ All customizable configurations are in schema.py
 ## Finetuning/Inference
 To finetune or evaluate the SUM or APM model, please see main.py and add your desired arguments. 
 You can also choose your desired learning paradigm (supervised/REINFORCE) in main.py.
+
+
+## License
+
+This project is licensed under the CC BY-NC-SA License.
